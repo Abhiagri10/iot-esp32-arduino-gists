@@ -22,3 +22,10 @@ Each project is maintained as a GitHub Gist for clarity and version control.
 - Display: 16x2 I2C LCD
 - Control Logic: Threshold-based irrigation indication  
 🔗 Gist: https://gist.github.com/Abhiagri10/af78b0efe2a2680632c93a12ed05cde8
+
+### Project 5 – Multi-Layer Root-Zone Soil Moisture Irrigation Control
+- Sensors: 3× Soil Moisture Sensors (Top/Mid/Bottom layers)  
+- Display: 16x4 I2C LCD  
+- Control Logic: Deficit-triggered pump control (multi-layer monitoring)  
+- Platform: ESP32  
+🔗 Gist: https://gist.github.com/Abhiagri10/70d3a56a54ec6e4467e57de57af5f1e4
